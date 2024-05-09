@@ -1,0 +1,11 @@
+# IntellijIdea files
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+dist/
+build/
+
+*.log
+*.js.map
+*.d.ts
